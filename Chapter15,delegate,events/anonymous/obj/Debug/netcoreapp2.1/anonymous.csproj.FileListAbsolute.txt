@@ -1,0 +1,11 @@
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\bin\Debug\netcoreapp2.1\anonymous.deps.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\bin\Debug\netcoreapp2.1\anonymous.runtimeconfig.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\bin\Debug\netcoreapp2.1\anonymous.runtimeconfig.dev.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\bin\Debug\netcoreapp2.1\anonymous.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\bin\Debug\netcoreapp2.1\anonymous.pdb
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\obj\Debug\netcoreapp2.1\anonymous.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\obj\Debug\netcoreapp2.1\anonymous.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\obj\Debug\netcoreapp2.1\anonymous.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\obj\Debug\netcoreapp2.1\anonymous.AssemblyInfo.cs
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\obj\Debug\netcoreapp2.1\anonymous.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\anonymous\obj\Debug\netcoreapp2.1\anonymous.pdb

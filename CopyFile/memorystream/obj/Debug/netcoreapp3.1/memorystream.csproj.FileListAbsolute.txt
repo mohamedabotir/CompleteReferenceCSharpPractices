@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\CopyFile\memorystream\bin\Debug\netcoreapp3.1\memorystream.exe
+F:\iti\iti\complete reference\CopyFile\memorystream\bin\Debug\netcoreapp3.1\memorystream.deps.json
+F:\iti\iti\complete reference\CopyFile\memorystream\bin\Debug\netcoreapp3.1\memorystream.runtimeconfig.json
+F:\iti\iti\complete reference\CopyFile\memorystream\bin\Debug\netcoreapp3.1\memorystream.runtimeconfig.dev.json
+F:\iti\iti\complete reference\CopyFile\memorystream\bin\Debug\netcoreapp3.1\memorystream.dll
+F:\iti\iti\complete reference\CopyFile\memorystream\bin\Debug\netcoreapp3.1\memorystream.pdb
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.AssemblyInfo.cs
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.dll
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.pdb
+F:\iti\iti\complete reference\CopyFile\memorystream\obj\Debug\netcoreapp3.1\memorystream.genruntimeconfig.cache

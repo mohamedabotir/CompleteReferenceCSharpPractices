@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\ch\ch\bin\Debug\netcoreapp3.1\ch.exe
+F:\iti\iti\complete reference\ch\ch\bin\Debug\netcoreapp3.1\ch.deps.json
+F:\iti\iti\complete reference\ch\ch\bin\Debug\netcoreapp3.1\ch.runtimeconfig.json
+F:\iti\iti\complete reference\ch\ch\bin\Debug\netcoreapp3.1\ch.runtimeconfig.dev.json
+F:\iti\iti\complete reference\ch\ch\bin\Debug\netcoreapp3.1\ch.dll
+F:\iti\iti\complete reference\ch\ch\bin\Debug\netcoreapp3.1\ch.pdb
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.AssemblyInfo.cs
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.dll
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.pdb
+F:\iti\iti\complete reference\ch\ch\obj\Debug\netcoreapp3.1\ch.genruntimeconfig.cache

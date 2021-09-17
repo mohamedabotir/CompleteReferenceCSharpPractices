@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\CopyFile\Binarydata\bin\Debug\netcoreapp3.1\Binarydata.exe
+F:\iti\iti\complete reference\CopyFile\Binarydata\bin\Debug\netcoreapp3.1\Binarydata.deps.json
+F:\iti\iti\complete reference\CopyFile\Binarydata\bin\Debug\netcoreapp3.1\Binarydata.runtimeconfig.json
+F:\iti\iti\complete reference\CopyFile\Binarydata\bin\Debug\netcoreapp3.1\Binarydata.runtimeconfig.dev.json
+F:\iti\iti\complete reference\CopyFile\Binarydata\bin\Debug\netcoreapp3.1\Binarydata.dll
+F:\iti\iti\complete reference\CopyFile\Binarydata\bin\Debug\netcoreapp3.1\Binarydata.pdb
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.AssemblyInfo.cs
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.dll
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.pdb
+F:\iti\iti\complete reference\CopyFile\Binarydata\obj\Debug\netcoreapp3.1\Binarydata.genruntimeconfig.cache

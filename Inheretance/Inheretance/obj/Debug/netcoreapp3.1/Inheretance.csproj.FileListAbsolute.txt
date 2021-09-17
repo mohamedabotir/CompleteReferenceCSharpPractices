@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\Inheretance\Inheretance\bin\Debug\netcoreapp3.1\Inheretance.exe
+F:\iti\iti\complete reference\Inheretance\Inheretance\bin\Debug\netcoreapp3.1\Inheretance.deps.json
+F:\iti\iti\complete reference\Inheretance\Inheretance\bin\Debug\netcoreapp3.1\Inheretance.runtimeconfig.json
+F:\iti\iti\complete reference\Inheretance\Inheretance\bin\Debug\netcoreapp3.1\Inheretance.runtimeconfig.dev.json
+F:\iti\iti\complete reference\Inheretance\Inheretance\bin\Debug\netcoreapp3.1\Inheretance.dll
+F:\iti\iti\complete reference\Inheretance\Inheretance\bin\Debug\netcoreapp3.1\Inheretance.pdb
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.AssemblyInfo.cs
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.dll
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.pdb
+F:\iti\iti\complete reference\Inheretance\Inheretance\obj\Debug\netcoreapp3.1\Inheretance.genruntimeconfig.cache

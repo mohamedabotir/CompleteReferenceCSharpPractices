@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\StringCulture\StringCulture\bin\Debug\netcoreapp3.1\StringCulture.exe
+F:\iti\iti\complete reference\StringCulture\StringCulture\bin\Debug\netcoreapp3.1\StringCulture.deps.json
+F:\iti\iti\complete reference\StringCulture\StringCulture\bin\Debug\netcoreapp3.1\StringCulture.runtimeconfig.json
+F:\iti\iti\complete reference\StringCulture\StringCulture\bin\Debug\netcoreapp3.1\StringCulture.runtimeconfig.dev.json
+F:\iti\iti\complete reference\StringCulture\StringCulture\bin\Debug\netcoreapp3.1\StringCulture.dll
+F:\iti\iti\complete reference\StringCulture\StringCulture\bin\Debug\netcoreapp3.1\StringCulture.pdb
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.AssemblyInfo.cs
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.dll
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.pdb
+F:\iti\iti\complete reference\StringCulture\StringCulture\obj\Debug\netcoreapp3.1\StringCulture.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+F:\iti\iti\complete reference\RefStatement\RefStatement\bin\Debug\RefStatement.exe.config
+F:\iti\iti\complete reference\RefStatement\RefStatement\bin\Debug\RefStatement.exe
+F:\iti\iti\complete reference\RefStatement\RefStatement\bin\Debug\RefStatement.pdb
+F:\iti\iti\complete reference\RefStatement\RefStatement\obj\Debug\RefStatement.exe
+F:\iti\iti\complete reference\RefStatement\RefStatement\obj\Debug\RefStatement.pdb
+F:\iti\iti\complete reference\RefStatement\RefStatement\obj\Debug\RefStatement.csprojResolveAssemblyReference.cache

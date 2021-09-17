@@ -1,0 +1,7 @@
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\bin\Debug\Assemblies.exe.config
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\bin\Debug\Assemblies.exe
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\bin\Debug\Assemblies.pdb
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\obj\Debug\Assemblies.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\obj\Debug\Assemblies.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\obj\Debug\Assemblies.exe
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Assemblies\obj\Debug\Assemblies.pdb

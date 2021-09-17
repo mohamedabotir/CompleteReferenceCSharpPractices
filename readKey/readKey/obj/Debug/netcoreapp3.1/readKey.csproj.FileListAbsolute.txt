@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\readKey\readKey\bin\Debug\netcoreapp3.1\readKey.exe
+F:\iti\iti\complete reference\readKey\readKey\bin\Debug\netcoreapp3.1\readKey.deps.json
+F:\iti\iti\complete reference\readKey\readKey\bin\Debug\netcoreapp3.1\readKey.runtimeconfig.json
+F:\iti\iti\complete reference\readKey\readKey\bin\Debug\netcoreapp3.1\readKey.runtimeconfig.dev.json
+F:\iti\iti\complete reference\readKey\readKey\bin\Debug\netcoreapp3.1\readKey.dll
+F:\iti\iti\complete reference\readKey\readKey\bin\Debug\netcoreapp3.1\readKey.pdb
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.AssemblyInfo.cs
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.dll
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.pdb
+F:\iti\iti\complete reference\readKey\readKey\obj\Debug\netcoreapp3.1\readKey.genruntimeconfig.cache

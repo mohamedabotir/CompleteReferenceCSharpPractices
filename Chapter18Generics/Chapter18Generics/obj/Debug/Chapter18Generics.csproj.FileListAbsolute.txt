@@ -1,0 +1,7 @@
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\bin\Debug\Chapter18Generics.exe.config
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\bin\Debug\Chapter18Generics.exe
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\bin\Debug\Chapter18Generics.pdb
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\obj\Debug\Chapter18Generics.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\obj\Debug\Chapter18Generics.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\obj\Debug\Chapter18Generics.exe
+E:\iti\iti\complete reference\Chapter18Generics\Chapter18Generics\obj\Debug\Chapter18Generics.pdb

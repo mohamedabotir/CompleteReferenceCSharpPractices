@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.exe
+F:\iti\iti\complete reference\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.deps.json
+F:\iti\iti\complete reference\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.runtimeconfig.json
+F:\iti\iti\complete reference\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.runtimeconfig.dev.json
+F:\iti\iti\complete reference\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.dll
+F:\iti\iti\complete reference\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.pdb
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.AssemblyInfo.cs
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.dll
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.pdb
+F:\iti\iti\complete reference\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.genruntimeconfig.cache

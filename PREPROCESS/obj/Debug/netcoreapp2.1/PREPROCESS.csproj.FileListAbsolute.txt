@@ -1,0 +1,11 @@
+E:\iti\iti\complete reference\PREPROCESS\bin\Debug\netcoreapp2.1\PREPROCESS.deps.json
+E:\iti\iti\complete reference\PREPROCESS\bin\Debug\netcoreapp2.1\PREPROCESS.runtimeconfig.json
+E:\iti\iti\complete reference\PREPROCESS\bin\Debug\netcoreapp2.1\PREPROCESS.runtimeconfig.dev.json
+E:\iti\iti\complete reference\PREPROCESS\bin\Debug\netcoreapp2.1\PREPROCESS.dll
+E:\iti\iti\complete reference\PREPROCESS\bin\Debug\netcoreapp2.1\PREPROCESS.pdb
+E:\iti\iti\complete reference\PREPROCESS\obj\Debug\netcoreapp2.1\PREPROCESS.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\PREPROCESS\obj\Debug\netcoreapp2.1\PREPROCESS.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\PREPROCESS\obj\Debug\netcoreapp2.1\PREPROCESS.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\PREPROCESS\obj\Debug\netcoreapp2.1\PREPROCESS.AssemblyInfo.cs
+E:\iti\iti\complete reference\PREPROCESS\obj\Debug\netcoreapp2.1\PREPROCESS.dll
+E:\iti\iti\complete reference\PREPROCESS\obj\Debug\netcoreapp2.1\PREPROCESS.pdb

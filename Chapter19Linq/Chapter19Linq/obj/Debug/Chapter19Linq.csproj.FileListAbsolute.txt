@@ -1,0 +1,7 @@
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\bin\Debug\Chapter19Linq.exe.config
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\bin\Debug\Chapter19Linq.exe
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\bin\Debug\Chapter19Linq.pdb
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\obj\Debug\Chapter19Linq.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\obj\Debug\Chapter19Linq.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\obj\Debug\Chapter19Linq.exe
+E:\iti\iti\complete reference\Chapter19Linq\Chapter19Linq\obj\Debug\Chapter19Linq.pdb

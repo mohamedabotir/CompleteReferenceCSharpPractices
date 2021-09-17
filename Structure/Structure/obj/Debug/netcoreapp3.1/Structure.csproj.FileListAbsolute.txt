@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.exe
+F:\iti\iti\complete reference\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.deps.json
+F:\iti\iti\complete reference\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.json
+F:\iti\iti\complete reference\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.dev.json
+F:\iti\iti\complete reference\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.dll
+F:\iti\iti\complete reference\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.pdb
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfo.cs
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.dll
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.pdb
+F:\iti\iti\complete reference\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.genruntimeconfig.cache

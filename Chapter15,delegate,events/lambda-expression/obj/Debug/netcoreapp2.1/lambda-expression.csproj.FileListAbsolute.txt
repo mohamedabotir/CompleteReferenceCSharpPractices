@@ -1,0 +1,11 @@
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\bin\Debug\netcoreapp2.1\lambda-expression.deps.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\bin\Debug\netcoreapp2.1\lambda-expression.runtimeconfig.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\bin\Debug\netcoreapp2.1\lambda-expression.runtimeconfig.dev.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\bin\Debug\netcoreapp2.1\lambda-expression.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\bin\Debug\netcoreapp2.1\lambda-expression.pdb
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\obj\Debug\netcoreapp2.1\lambda-expression.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\obj\Debug\netcoreapp2.1\lambda-expression.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\obj\Debug\netcoreapp2.1\lambda-expression.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\obj\Debug\netcoreapp2.1\lambda-expression.AssemblyInfo.cs
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\obj\Debug\netcoreapp2.1\lambda-expression.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\lambda-expression\obj\Debug\netcoreapp2.1\lambda-expression.pdb

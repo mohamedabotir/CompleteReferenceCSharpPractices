@@ -1,0 +1,7 @@
+E:\iti\iti\complete reference\apprev\appv1\fileManager\bin\Debug\fileManager.exe.config
+E:\iti\iti\complete reference\apprev\appv1\fileManager\bin\Debug\fileManager.exe
+E:\iti\iti\complete reference\apprev\appv1\fileManager\bin\Debug\fileManager.pdb
+E:\iti\iti\complete reference\apprev\appv1\fileManager\obj\Debug\fileManager.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\apprev\appv1\fileManager\obj\Debug\fileManager.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\apprev\appv1\fileManager\obj\Debug\fileManager.exe
+E:\iti\iti\complete reference\apprev\appv1\fileManager\obj\Debug\fileManager.pdb

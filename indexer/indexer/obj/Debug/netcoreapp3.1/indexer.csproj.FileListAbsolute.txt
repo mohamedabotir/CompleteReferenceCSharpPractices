@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.exe
+F:\iti\iti\complete reference\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.deps.json
+F:\iti\iti\complete reference\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.runtimeconfig.json
+F:\iti\iti\complete reference\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.runtimeconfig.dev.json
+F:\iti\iti\complete reference\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.dll
+F:\iti\iti\complete reference\indexer\indexer\bin\Debug\netcoreapp3.1\indexer.pdb
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.AssemblyInfo.cs
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.dll
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.pdb
+F:\iti\iti\complete reference\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.genruntimeconfig.cache

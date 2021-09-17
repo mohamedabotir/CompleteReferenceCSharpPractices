@@ -1,0 +1,8 @@
+C:\Users\Threading\Desktop\memorystream\memorystream\bin\Debug\memorystream.exe.config
+C:\Users\Threading\Desktop\memorystream\memorystream\bin\Debug\memorystream.exe
+C:\Users\Threading\Desktop\memorystream\memorystream\bin\Debug\memorystream.pdb
+C:\Users\Threading\Desktop\memorystream\memorystream\obj\Debug\memorystream.csprojResolveAssemblyReference.cache
+C:\Users\Threading\Desktop\memorystream\memorystream\obj\Debug\memorystream.exe
+C:\Users\Threading\Desktop\memorystream\memorystream\obj\Debug\memorystream.pdb
+C:\Users\Threading\Desktop\memorystream\memorystream\bin\Debug\memorystream.exe.CodeAnalysisLog.xml
+C:\Users\Threading\Desktop\memorystream\memorystream\bin\Debug\memorystream.exe.lastcodeanalysissucceeded

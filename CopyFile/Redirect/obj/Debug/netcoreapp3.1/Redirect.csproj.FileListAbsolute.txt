@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\CopyFile\Redirect\bin\Debug\netcoreapp3.1\Redirect.exe
+F:\iti\iti\complete reference\CopyFile\Redirect\bin\Debug\netcoreapp3.1\Redirect.deps.json
+F:\iti\iti\complete reference\CopyFile\Redirect\bin\Debug\netcoreapp3.1\Redirect.runtimeconfig.json
+F:\iti\iti\complete reference\CopyFile\Redirect\bin\Debug\netcoreapp3.1\Redirect.runtimeconfig.dev.json
+F:\iti\iti\complete reference\CopyFile\Redirect\bin\Debug\netcoreapp3.1\Redirect.dll
+F:\iti\iti\complete reference\CopyFile\Redirect\bin\Debug\netcoreapp3.1\Redirect.pdb
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.AssemblyInfo.cs
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.dll
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.pdb
+F:\iti\iti\complete reference\CopyFile\Redirect\obj\Debug\netcoreapp3.1\Redirect.genruntimeconfig.cache

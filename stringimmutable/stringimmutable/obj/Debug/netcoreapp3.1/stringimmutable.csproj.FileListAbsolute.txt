@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\bin\Debug\netcoreapp3.1\stringimmutable.exe
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\bin\Debug\netcoreapp3.1\stringimmutable.deps.json
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\bin\Debug\netcoreapp3.1\stringimmutable.runtimeconfig.json
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\bin\Debug\netcoreapp3.1\stringimmutable.runtimeconfig.dev.json
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\bin\Debug\netcoreapp3.1\stringimmutable.dll
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\bin\Debug\netcoreapp3.1\stringimmutable.pdb
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.AssemblyInfo.cs
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.dll
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.pdb
+F:\iti\iti\complete reference\stringimmutable\stringimmutable\obj\Debug\netcoreapp3.1\stringimmutable.genruntimeconfig.cache

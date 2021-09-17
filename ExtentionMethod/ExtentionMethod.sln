@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{A3C4BF22-610F-4A70-9144-922B3675BB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethodWithInterface", "ExtentionMethodWithInterface\ExtentionMethodWithInterface.csproj", "{998892F7-4CF3-4FBC-8F0C-A52160708458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C4BF22-610F-4A70-9144-922B3675BB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C4BF22-610F-4A70-9144-922B3675BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C4BF22-610F-4A70-9144-922B3675BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C4BF22-610F-4A70-9144-922B3675BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998892F7-4CF3-4FBC-8F0C-A52160708458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998892F7-4CF3-4FBC-8F0C-A52160708458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998892F7-4CF3-4FBC-8F0C-A52160708458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998892F7-4CF3-4FBC-8F0C-A52160708458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5B5962-6ED0-47E2-8921-626EB6767916}
+	EndGlobalSection
+EndGlobal

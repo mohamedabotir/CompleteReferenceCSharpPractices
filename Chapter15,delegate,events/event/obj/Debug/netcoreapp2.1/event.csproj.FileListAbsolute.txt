@@ -1,0 +1,11 @@
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\bin\Debug\netcoreapp2.1\event.deps.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\bin\Debug\netcoreapp2.1\event.runtimeconfig.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\bin\Debug\netcoreapp2.1\event.runtimeconfig.dev.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\bin\Debug\netcoreapp2.1\event.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\bin\Debug\netcoreapp2.1\event.pdb
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\obj\Debug\netcoreapp2.1\event.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\obj\Debug\netcoreapp2.1\event.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\obj\Debug\netcoreapp2.1\event.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\obj\Debug\netcoreapp2.1\event.AssemblyInfo.cs
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\obj\Debug\netcoreapp2.1\event.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\event\obj\Debug\netcoreapp2.1\event.pdb

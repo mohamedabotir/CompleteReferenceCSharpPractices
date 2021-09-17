@@ -1,0 +1,11 @@
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\bin\Debug\netcoreapp2.1\enumeration.deps.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\bin\Debug\netcoreapp2.1\enumeration.runtimeconfig.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\bin\Debug\netcoreapp2.1\enumeration.runtimeconfig.dev.json
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\bin\Debug\netcoreapp2.1\enumeration.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\bin\Debug\netcoreapp2.1\enumeration.pdb
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\obj\Debug\netcoreapp2.1\enumeration.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\obj\Debug\netcoreapp2.1\enumeration.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\obj\Debug\netcoreapp2.1\enumeration.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\obj\Debug\netcoreapp2.1\enumeration.AssemblyInfo.cs
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\obj\Debug\netcoreapp2.1\enumeration.dll
+E:\iti\iti\complete reference\Chapter15,delegate,events\enumeration\obj\Debug\netcoreapp2.1\enumeration.pdb

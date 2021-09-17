@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\bin\Debug\netcoreapp3.1\operatoroverloading.exe
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\bin\Debug\netcoreapp3.1\operatoroverloading.deps.json
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\bin\Debug\netcoreapp3.1\operatoroverloading.runtimeconfig.json
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\bin\Debug\netcoreapp3.1\operatoroverloading.runtimeconfig.dev.json
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\bin\Debug\netcoreapp3.1\operatoroverloading.dll
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\bin\Debug\netcoreapp3.1\operatoroverloading.pdb
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.AssemblyInfo.cs
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.dll
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.pdb
+F:\iti\iti\complete reference\operatoroverloading\operatoroverloading\obj\Debug\netcoreapp3.1\operatoroverloading.genruntimeconfig.cache

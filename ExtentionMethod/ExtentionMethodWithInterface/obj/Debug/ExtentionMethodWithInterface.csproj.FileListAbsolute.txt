@@ -1,0 +1,7 @@
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\bin\Debug\ExtentionMethodWithInterface.exe.config
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\bin\Debug\ExtentionMethodWithInterface.exe
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\bin\Debug\ExtentionMethodWithInterface.pdb
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\obj\Debug\ExtentionMethodWithInterface.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\obj\Debug\ExtentionMethodWithInterface.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\obj\Debug\ExtentionMethodWithInterface.exe
+F:\iti\iti\complete reference\ExtentionMethod\ExtentionMethodWithInterface\obj\Debug\ExtentionMethodWithInterface.pdb

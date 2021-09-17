@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\bin\Debug\netcoreapp3.1\ObjectInitioanlizer.exe
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\bin\Debug\netcoreapp3.1\ObjectInitioanlizer.deps.json
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\bin\Debug\netcoreapp3.1\ObjectInitioanlizer.runtimeconfig.json
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\bin\Debug\netcoreapp3.1\ObjectInitioanlizer.runtimeconfig.dev.json
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\bin\Debug\netcoreapp3.1\ObjectInitioanlizer.dll
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\bin\Debug\netcoreapp3.1\ObjectInitioanlizer.pdb
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.AssemblyInfo.cs
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.dll
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.pdb
+F:\iti\iti\complete reference\ObjectInitioanlizer\ObjectInitioanlizer\obj\Debug\netcoreapp3.1\ObjectInitioanlizer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\Iinterface\Iinterface\bin\Debug\netcoreapp3.1\Iinterface.exe
+F:\iti\iti\complete reference\Iinterface\Iinterface\bin\Debug\netcoreapp3.1\Iinterface.deps.json
+F:\iti\iti\complete reference\Iinterface\Iinterface\bin\Debug\netcoreapp3.1\Iinterface.runtimeconfig.json
+F:\iti\iti\complete reference\Iinterface\Iinterface\bin\Debug\netcoreapp3.1\Iinterface.runtimeconfig.dev.json
+F:\iti\iti\complete reference\Iinterface\Iinterface\bin\Debug\netcoreapp3.1\Iinterface.dll
+F:\iti\iti\complete reference\Iinterface\Iinterface\bin\Debug\netcoreapp3.1\Iinterface.pdb
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.AssemblyInfo.cs
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.dll
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.pdb
+F:\iti\iti\complete reference\Iinterface\Iinterface\obj\Debug\netcoreapp3.1\Iinterface.genruntimeconfig.cache

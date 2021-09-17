@@ -1,0 +1,13 @@
+F:\iti\iti\complete reference\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.exe
+F:\iti\iti\complete reference\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.deps.json
+F:\iti\iti\complete reference\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.json
+F:\iti\iti\complete reference\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.dev.json
+F:\iti\iti\complete reference\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.dll
+F:\iti\iti\complete reference\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.pdb
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfoInputs.cache
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfo.cs
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.dll
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.pdb
+F:\iti\iti\complete reference\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.genruntimeconfig.cache

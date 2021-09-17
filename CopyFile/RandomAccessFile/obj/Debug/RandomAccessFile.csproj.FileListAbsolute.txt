@@ -1,0 +1,7 @@
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\bin\Debug\RandomAccessFile.exe.config
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\bin\Debug\RandomAccessFile.exe
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\bin\Debug\RandomAccessFile.pdb
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\obj\Debug\RandomAccessFile.csprojAssemblyReference.cache
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\obj\Debug\RandomAccessFile.csproj.CoreCompileInputs.cache
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\obj\Debug\RandomAccessFile.exe
+F:\iti\iti\complete reference\CopyFile\RandomAccessFile\obj\Debug\RandomAccessFile.pdb

@@ -1,0 +1,7 @@
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\bin\Debug\Chapter17Reflection.exe.config
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\bin\Debug\Chapter17Reflection.exe
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\bin\Debug\Chapter17Reflection.pdb
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\obj\Debug\Chapter17Reflection.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\obj\Debug\Chapter17Reflection.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\obj\Debug\Chapter17Reflection.exe
+E:\iti\iti\complete reference\chapter17\Chapter17Reflection\Chapter17Reflection\obj\Debug\Chapter17Reflection.pdb
