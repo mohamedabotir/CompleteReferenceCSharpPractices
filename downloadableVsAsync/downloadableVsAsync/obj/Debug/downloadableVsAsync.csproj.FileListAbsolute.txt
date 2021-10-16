@@ -1,0 +1,7 @@
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\bin\Debug\downloadableVsAsync.exe.config
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\bin\Debug\downloadableVsAsync.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\bin\Debug\downloadableVsAsync.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\obj\Debug\downloadableVsAsync.csprojAssemblyReference.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\obj\Debug\downloadableVsAsync.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\obj\Debug\downloadableVsAsync.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\downloadableVsAsync\downloadableVsAsync\obj\Debug\downloadableVsAsync.pdb
