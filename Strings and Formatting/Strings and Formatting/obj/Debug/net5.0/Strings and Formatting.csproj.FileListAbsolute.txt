@@ -1,0 +1,16 @@
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\Strings and Formatting.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\Strings and Formatting.deps.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\Strings and Formatting.runtimeconfig.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\Strings and Formatting.runtimeconfig.dev.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\Strings and Formatting.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\ref\Strings and Formatting.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\bin\Debug\net5.0\Strings and Formatting.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.csproj.AssemblyReference.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.AssemblyInfo.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\ref\Strings and Formatting.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Strings and Formatting\Strings and Formatting\obj\Debug\net5.0\Strings and Formatting.genruntimeconfig.cache

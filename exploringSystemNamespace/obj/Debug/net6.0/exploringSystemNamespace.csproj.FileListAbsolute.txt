@@ -1,0 +1,16 @@
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\bin\Debug\net6.0\exploringSystemNamespace.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\bin\Debug\net6.0\exploringSystemNamespace.deps.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\bin\Debug\net6.0\exploringSystemNamespace.runtimeconfig.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\bin\Debug\net6.0\exploringSystemNamespace.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\bin\Debug\net6.0\ref\exploringSystemNamespace.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\bin\Debug\net6.0\exploringSystemNamespace.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.GlobalUsings.g.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.csproj.AssemblyReference.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.AssemblyInfo.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\ref\exploringSystemNamespace.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\exploringSystemNamespace\obj\Debug\net6.0\exploringSystemNamespace.genruntimeconfig.cache
