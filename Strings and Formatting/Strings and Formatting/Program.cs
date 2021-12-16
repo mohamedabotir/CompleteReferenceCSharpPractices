@@ -42,6 +42,13 @@ namespace Strings_and_Formatting
             #endregion
             Console.WriteLine(a.PadLeft(5));// add  5 spaces from left 
             Console.WriteLine(a.PadLeft(5, '/'));
+            #region formate
+            Console.WriteLine(" {0:d3}",5);
+            Console.WriteLine(" {0:f1}", 5.62);
+            Console.WriteLine(" {0:n3}", 5.6);
+            Console.WriteLine(" {0:p0}", .5);
+            Console.WriteLine(" {0:x}", 21);
+            #endregion
         }
 
 

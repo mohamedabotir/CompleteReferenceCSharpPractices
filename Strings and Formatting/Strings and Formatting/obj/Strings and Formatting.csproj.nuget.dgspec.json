@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\iti\\iti\\complete reference\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj": {}
+    "D:\\IT\\BOOKS\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj": {}
   },
   "projects": {
-    "E:\\iti\\iti\\complete reference\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj": {
+    "D:\\IT\\BOOKS\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\iti\\iti\\complete reference\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj",
+        "projectUniqueName": "D:\\IT\\BOOKS\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj",
         "projectName": "Strings and Formatting",
-        "projectPath": "E:\\iti\\iti\\complete reference\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj",
-        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "E:\\iti\\iti\\complete reference\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\obj\\",
+        "projectPath": "D:\\IT\\BOOKS\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\Strings and Formatting.csproj",
+        "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
+        "outputPath": "D:\\IT\\BOOKS\\CompleteReferenceCSharpPractices\\Strings and Formatting\\Strings and Formatting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
