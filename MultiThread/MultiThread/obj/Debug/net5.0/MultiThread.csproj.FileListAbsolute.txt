@@ -1,0 +1,16 @@
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.deps.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.runtimeconfig.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.runtimeconfig.dev.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\ref\MultiThread.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\bin\Debug\net5.0\MultiThread.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.csproj.AssemblyReference.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.AssemblyInfo.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\ref\MultiThread.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\MultiThread\MultiThread\obj\Debug\net5.0\MultiThread.genruntimeconfig.cache
