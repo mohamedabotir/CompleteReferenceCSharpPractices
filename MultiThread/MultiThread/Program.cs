@@ -83,6 +83,18 @@ all foreground threads have stopped. By default, a thread is created as a foregr
             c1.thrd.Join();
             c2.thrd.Join();
             #endregion
+            #region Mutx
+            IncrMutx m1 = new IncrMutx("mIncr", 5);
+            DecMutx m2 = new DecMutx("mDec", 10);
+            m1.thrd.Join();
+            m2.thrd.Join();
+            #endregion
+            #region Semaphore
+            semaphore sm1 = new semaphore("sema1");
+            semaphore sm2 = new semaphore("sema2");
+
+
+            #endregion
 
 
         }
