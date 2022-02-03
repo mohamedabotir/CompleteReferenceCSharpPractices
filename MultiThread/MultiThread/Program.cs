@@ -92,10 +92,21 @@ all foreground threads have stopped. By default, a thread is created as a foregr
             #region Semaphore
             semaphore sm1 = new semaphore("sema1");
             semaphore sm2 = new semaphore("sema2");
-
-
             #endregion
-
+            #region event
+            MEvent mEvent = new MEvent("event");
+            MEvent1 mEvent1 = new MEvent1("clientEvent");
+            mEvent.thd.Join();
+            mEvent1.thd.Join();
+            #endregion
+            #region interlocked
+            Inter inter = new Inter("interlocked1");
+            Inter inter1 = new Inter("interlocked2");
+            #endregion
+            #region abort
+            abort abort = new abort("abort", 5);
+            abort.thrd.Abort(ThreadState.Aborted);
+            #endregion
 
         }
     }

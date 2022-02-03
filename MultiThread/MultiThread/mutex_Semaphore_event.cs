@@ -9,6 +9,8 @@ namespace MultiThread
         public static int count;
         public static Mutex mtx = new Mutex();
         public static Semaphore smp = new Semaphore(2, 2);
+        public static ManualResetEvent Mevent = new ManualResetEvent(false);
+        public static int inter;
     }
     public class IncrMutx
     {
@@ -95,4 +97,77 @@ namespace MultiThread
             SharedRes.smp.Release();
         }
     }
+    public class MEvent
+    {
+        public Thread thd;
+        public MEvent(string name)
+        {
+            thd = new Thread(this.run);
+            thd.Name = name;
+            thd.Start();
+        }
+
+        private void run()
+        {
+            Console.WriteLine($"{thd.Name} Start.");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{thd.Name}: {i}");
+                Thread.Sleep(500);
+            }
+            SharedRes.Mevent.Set();
+        }
+    }
+
+    public class MEvent1
+    {
+        public Thread thd;
+        public MEvent1(string name)
+        {
+            thd = new Thread(this.run);
+            thd.Name = name;
+            thd.Start();
+        }
+
+        private void run()
+        {
+            Console.WriteLine($"{thd.Name}  aquire.");
+            SharedRes.Mevent.WaitOne();
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"{thd.Name}: {i}");
+                Thread.Sleep(500);
+            }
+            SharedRes.Mevent.Reset();
+
+        }
+    }
+
+    public class Inter
+    {
+        Thread thd;
+        public Inter(string name)
+        {
+            thd = new Thread(this.run);
+            thd.Name = name;
+            thd.Start();
+        }
+
+        private void run()
+        {
+            Console.WriteLine($"{thd.Name} is start.");
+            for (int i = 1; i < 6; i++)
+            {
+                Interlocked.Increment(ref SharedRes.inter);
+                Console.WriteLine($"{thd.Name}: {SharedRes.inter}");
+                Thread.Sleep(500);
+            }
+        }
+    }
+
+
+
+
+
+
 }
