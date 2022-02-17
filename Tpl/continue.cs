@@ -1,4 +1,6 @@
-﻿namespace Tpl
+﻿using System;
+
+namespace Tpl
 {
     public class continues
     {
