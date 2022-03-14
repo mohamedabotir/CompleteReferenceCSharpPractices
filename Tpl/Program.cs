@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -6,6 +8,7 @@ namespace Tpl
 {
     class Program
     {
+        static int[] Data;
         static void mytask()
         {
             for (int i = 0; i < 5; i++)
@@ -92,8 +95,139 @@ namespace Tpl
                 cancel.Dispose();
             }
             Console.WriteLine("Main thread ending.");
+            Parallel.Invoke(pTask1, pTask2);
+            Data = new int[10000000];
+            Stopwatch watch = new Stopwatch();
+            watch.Start();
+            Parallel.For(0, Data.Length, transform);
+            watch.Stop();
+            Console.WriteLine($"Parallel Estimate Time is:{watch.Elapsed.TotalSeconds}");
+            watch.Reset();
+            watch.Start();
+            for (int i = 0; i < Data.Length; i++)
+            {
+                transform(i);
+            }
+            watch.Stop();
+            Console.WriteLine($"Sequential Estimate Time is:{watch.Elapsed.TotalSeconds}");
+            Data[100] = -10;
+            Data[2000] = 2000;
+            ParallelLoopResult pa = Parallel.For(0, Data.Length, trytransform);
 
+            if (!pa.IsCompleted)
+                Console.WriteLine("\nLoop Terminated early because a " +
+                "negative value was encountered\n" +
+                "in iteration number " +
+                pa.LowestBreakIteration + ".\n");
+
+            Console.WriteLine(Data[100] + "  ," + Data[2000]);
+            int[] Data2 = new int[100];
+            Data2[99] = -2000;
+            Data2[10] = -10;
+
+            ParallelLoopResult pa1 = Parallel.ForEach(Data2, p2);
+            if (!pa1.IsCompleted)
+                Console.WriteLine("\nLoop Terminated early because a " +
+                "negative value was encountered\n" +
+                "in iteration number " +
+                pa1.LowestBreakIteration + ".\n");
+
+            Console.WriteLine(Data[100] + "  ," + Data[2000]);
+
+            var filter = from val in Data2.AsQueryable()
+                         where val < 0
+                         select val;
+            foreach (var item in filter)
+            {
+                Console.WriteLine(item);
+            }
+            CancellationTokenSource can = new CancellationTokenSource();
+            var fil = from val in Data2.AsParallel().WithCancellation(can.Token)
+                      where val < 0
+                      select val;
+            Task tr = Task.Factory.StartNew(() =>
+            {
+                Thread.Sleep(100);
+                can.Cancel();
+            });
+            try
+            {
+                foreach (var item in fil)
+                {
+                    Console.WriteLine(item);
+
+                }
+            }
+            catch (OperationCanceledException ex)
+            {
+                Console.WriteLine(ex);
+
+            }
+            catch (AggregateException ex)
+            {
+                Console.WriteLine(ex);
+            }
+            finally
+            {
+                tr.Wait();
+                can.Dispose();
+                tr.Dispose();
+            }
         }
+        public static void data(out int d)
+        {
+            d = 50;
+        }
+        public static void p2(int v, ParallelLoopState p)
+        {
+            if (v < 0) p.Break();
+            Console.WriteLine("Value: " + v);
+        }
+        public static void trytransform(int i, ParallelLoopState st)
+        {
+            if (Data[i] < 0)
+            {
+                Data[i] *= 2;
+                Console.WriteLine($"Exit in iteration {i}");
+                st.Break();
+            }
+            Data[i] = Data[i] + 10;
+            if (Data[i] < 1000) Data[i] = 0;
+            if (Data[i] > 1000 & Data[i] < 2000) Data[i] = 100;
+            if (Data[i] > 2000 & Data[i] < 3000) Data[i] = 200;
+            if (Data[i] > 3000) Data[i] = 300;
+        }
+        public static void transform(int i)
+        {
+
+            Data[i] = Data[i] / 10;
+            if (Data[i] < 1000) Data[i] = 0;
+            if (Data[i] > 1000 & Data[i] < 2000) Data[i] = 100;
+            if (Data[i] > 2000 & Data[i] < 3000) Data[i] = 200;
+            if (Data[i] > 3000) Data[i] = 300;
+        }
+        public static void pTask1()
+        {
+            Console.WriteLine("Task1");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"Task1: {i}");
+                Thread.Sleep(500);
+            }
+            Console.WriteLine("Task1 End.");
+        }
+
+        public static void pTask2()
+        {
+            Console.WriteLine("Task2");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"Task2: {i}");
+                Thread.Sleep(500);
+            }
+            Console.WriteLine("Task2 End.");
+        }
+
         public static void Cancelation(object ct)
         {
             CancellationToken token = (CancellationToken)ct;

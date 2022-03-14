@@ -1,0 +1,16 @@
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\bin\Debug\net6.0\chapter25.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\bin\Debug\net6.0\chapter25.deps.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\bin\Debug\net6.0\chapter25.runtimeconfig.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\bin\Debug\net6.0\chapter25.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\bin\Debug\net6.0\ref\chapter25.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\bin\Debug\net6.0\chapter25.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.GlobalUsings.g.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.csproj.AssemblyReference.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.AssemblyInfo.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\ref\chapter25.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\chapter25\obj\Debug\net6.0\chapter25.genruntimeconfig.cache
