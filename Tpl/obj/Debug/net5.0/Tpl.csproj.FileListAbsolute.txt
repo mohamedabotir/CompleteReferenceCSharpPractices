@@ -1,0 +1,16 @@
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\Tpl.exe
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\Tpl.deps.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\Tpl.runtimeconfig.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\Tpl.runtimeconfig.dev.json
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\Tpl.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\ref\Tpl.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\bin\Debug\net5.0\Tpl.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.csproj.AssemblyReference.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.AssemblyInfoInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.AssemblyInfo.cs
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.csproj.CoreCompileInputs.cache
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\ref\Tpl.dll
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.pdb
+E:\iti\iti\complete reference\CompleteReferenceCSharpPractices\Tpl\obj\Debug\net5.0\Tpl.genruntimeconfig.cache
