@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MTMc9VXftHCwMAxXTAbkf2vlnADI+M4pSAG0HfIv/J7TP1gPXnJXprhppcnq/1/WdoD0mHw5seSiOmjNpoEfvg==",
+  "dgSpecHash": "/kMEjzIr6uqg9u2CGUBKsfDYFsJKxO7+Erec5XoDm3Dp8RqS383KuQGWw/klrWrAYIn13TM985mrtW1Am+WmdA==",
   "success": true,
-  "projectFilePath": "E:\\iti\\iti\\complete reference\\CompleteReferenceCSharpPractices\\MultiThread\\MultiThread\\MultiThread.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\IT\\projects\\CompleteReferenceCSharpPractices\\MultiThread\\MultiThread\\MultiThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

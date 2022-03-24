@@ -1,0 +1,15 @@
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\bin\Debug\net6.0\Chapter24.exe
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\bin\Debug\net6.0\Chapter24.deps.json
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\bin\Debug\net6.0\Chapter24.runtimeconfig.json
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\bin\Debug\net6.0\Chapter24.dll
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\bin\Debug\net6.0\ref\Chapter24.dll
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\bin\Debug\net6.0\Chapter24.pdb
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.csproj.AssemblyReference.cache
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.AssemblyInfoInputs.cache
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.AssemblyInfo.cs
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.csproj.CoreCompileInputs.cache
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.dll
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\ref\Chapter24.dll
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.pdb
+D:\IT\projects\CompleteReferenceCSharpPractices\Chapter24\Chapter24\obj\Debug\net6.0\Chapter24.genruntimeconfig.cache
