@@ -1,0 +1,15 @@
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\bin\Debug\net6.0\CSharp5.exe
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\bin\Debug\net6.0\CSharp5.deps.json
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\bin\Debug\net6.0\CSharp5.runtimeconfig.json
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\bin\Debug\net6.0\CSharp5.dll
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\bin\Debug\net6.0\CSharp5.pdb
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.csproj.AssemblyReference.cache
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.GeneratedMSBuildEditorConfig.editorconfig
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.AssemblyInfoInputs.cache
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.AssemblyInfo.cs
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.csproj.CoreCompileInputs.cache
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.dll
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\refint\CSharp5.dll
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.pdb
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\CSharp5.genruntimeconfig.cache
+F:\CompleteReferenceCSharpPractices\CSharp5\CSharp5\obj\Debug\net6.0\ref\CSharp5.dll
