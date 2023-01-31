@@ -1,0 +1,15 @@
+C:\Users\Health\source\repos\events\bin\Debug\net7.0\events.exe
+C:\Users\Health\source\repos\events\bin\Debug\net7.0\events.deps.json
+C:\Users\Health\source\repos\events\bin\Debug\net7.0\events.runtimeconfig.json
+C:\Users\Health\source\repos\events\bin\Debug\net7.0\events.dll
+C:\Users\Health\source\repos\events\bin\Debug\net7.0\events.pdb
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.csproj.AssemblyReference.cache
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.AssemblyInfoInputs.cache
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.AssemblyInfo.cs
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.csproj.CoreCompileInputs.cache
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.dll
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\refint\events.dll
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.pdb
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\events.genruntimeconfig.cache
+C:\Users\Health\source\repos\events\obj\Debug\net7.0\ref\events.dll
