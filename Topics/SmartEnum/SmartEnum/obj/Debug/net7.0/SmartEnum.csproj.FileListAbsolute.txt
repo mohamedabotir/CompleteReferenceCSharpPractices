@@ -1,0 +1,15 @@
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\bin\Debug\net7.0\SmartEnum.exe
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\bin\Debug\net7.0\SmartEnum.deps.json
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\bin\Debug\net7.0\SmartEnum.runtimeconfig.json
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\bin\Debug\net7.0\SmartEnum.dll
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\bin\Debug\net7.0\SmartEnum.pdb
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.csproj.AssemblyReference.cache
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.AssemblyInfoInputs.cache
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.AssemblyInfo.cs
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.csproj.CoreCompileInputs.cache
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.dll
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\refint\SmartEnum.dll
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.pdb
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\SmartEnum.genruntimeconfig.cache
+C:\Users\Health\source\repos\CompleteReferenceCSharpPractices\Topics\SmartEnum\SmartEnum\obj\Debug\net7.0\ref\SmartEnum.dll
