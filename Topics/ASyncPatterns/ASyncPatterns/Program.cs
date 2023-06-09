@@ -4,6 +4,7 @@ namespace ASyncPatterns
 {
     internal class Program
     {
+        delegate void InvokeMethod(int sleep);
         static void Main(string[] args)
         {
             #region Synchronous version
@@ -49,14 +50,20 @@ namespace ASyncPatterns
             #endregion
 
             #region ThreadPool
-            ThreadPool.QueueUserWorkItem(new WaitCallback(Method2));
-            ThreadPool.QueueUserWorkItem(new WaitCallback(Method3),10);
+            //ThreadPool.QueueUserWorkItem(new WaitCallback(Method2));
+            //ThreadPool.QueueUserWorkItem(new WaitCallback(Method3),10);
 
-            Method1();
-            Console.WriteLine("End Main().");
+            //Method1();
+            //Console.WriteLine("End Main().");
             #endregion
+
+            #region IAsyncResult Pattern 
+            InvokeMethod invoke = DoAsyncResult;
+            IAsyncResult asyncResult =   invoke.BeginInvoke(1000,null,null);// not supported it support in platform .NET Framework 4.7.2
+            #endregion
+
         }
-      public  static void Method2(object state)
+        public  static void Method2(object state)
         {
             Console.WriteLine("Method 2 has Started");
             Thread.Sleep(100);
@@ -79,7 +86,13 @@ namespace ASyncPatterns
             Thread.Sleep(1000);
             Console.WriteLine("Method 1 has Finished");
         }
+        static void DoAsyncResult(int sleep)
+        {
+            Console.WriteLine("Start DoAsyncResult");
 
+            Thread.Sleep(sleep);
+            Console.WriteLine("End DoAsyncResult");
+        }
 
     }
 }
