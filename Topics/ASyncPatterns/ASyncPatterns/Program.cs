@@ -1,4 +1,6 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System.ComponentModel;
+using System.Net;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ASyncPatterns
 {
@@ -58,10 +60,18 @@ namespace ASyncPatterns
             #endregion
 
             #region IAsyncResult Pattern 
-            InvokeMethod invoke = DoAsyncResult;
-            IAsyncResult asyncResult =   invoke.BeginInvoke(1000,null,null);// not supported it support in platform .NET Framework 4.7.2
+            //InvokeMethod invoke = DoAsyncResult;
+            //IAsyncResult asyncResult =   invoke.BeginInvoke(1000,null,null);// not supported it support in platform .NET Framework 4.7.2
+            //
             #endregion
 
+            #region Event-Based Pattern
+            WebClient client = new();
+            Uri myLocation = new Uri(@"E:\]\library\Advanced ASP.NET Core 3 Security.pdf");
+
+            client.DownloadFileAsync(myLocation, @"C:\Advanced ASP.NET Core 3 Security.pd");
+            client.DownloadFileCompleted += DownloadCompleted;
+            #endregion
         }
         public  static void Method2(object state)
         {
@@ -92,6 +102,11 @@ namespace ASyncPatterns
 
             Thread.Sleep(sleep);
             Console.WriteLine("End DoAsyncResult");
+        }
+        private static void DownloadCompleted(object sender,
+AsyncCompletedEventArgs e)
+        {
+            Console.WriteLine("Successfully Download the file now.");
         }
 
     }
