@@ -1,0 +1,15 @@
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\bin\Debug\net7.0\ASyncPatterns.exe
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\bin\Debug\net7.0\ASyncPatterns.deps.json
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\bin\Debug\net7.0\ASyncPatterns.runtimeconfig.json
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\bin\Debug\net7.0\ASyncPatterns.dll
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\bin\Debug\net7.0\ASyncPatterns.pdb
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.csproj.AssemblyReference.cache
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.AssemblyInfoInputs.cache
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.AssemblyInfo.cs
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.csproj.CoreCompileInputs.cache
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.dll
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\refint\ASyncPatterns.dll
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.pdb
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ASyncPatterns.genruntimeconfig.cache
+E:\]\private\Topics\ASyncPatterns\ASyncPatterns\obj\Debug\net7.0\ref\ASyncPatterns.dll
