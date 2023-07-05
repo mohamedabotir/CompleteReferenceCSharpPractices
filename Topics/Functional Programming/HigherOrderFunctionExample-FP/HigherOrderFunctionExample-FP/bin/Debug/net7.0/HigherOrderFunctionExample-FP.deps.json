@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HigherOrderFunctionExample-FP/1.0.0": {
+        "runtime": {
+          "HigherOrderFunctionExample-FP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HigherOrderFunctionExample-FP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

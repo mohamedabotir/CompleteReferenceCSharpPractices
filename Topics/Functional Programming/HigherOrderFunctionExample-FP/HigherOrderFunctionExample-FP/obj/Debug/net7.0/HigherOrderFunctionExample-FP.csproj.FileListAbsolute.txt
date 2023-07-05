@@ -1,0 +1,15 @@
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\bin\Debug\net7.0\HigherOrderFunctionExample-FP.exe
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\bin\Debug\net7.0\HigherOrderFunctionExample-FP.deps.json
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\bin\Debug\net7.0\HigherOrderFunctionExample-FP.runtimeconfig.json
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\bin\Debug\net7.0\HigherOrderFunctionExample-FP.dll
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\bin\Debug\net7.0\HigherOrderFunctionExample-FP.pdb
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.csproj.AssemblyReference.cache
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.GeneratedMSBuildEditorConfig.editorconfig
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.AssemblyInfoInputs.cache
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.AssemblyInfo.cs
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.csproj.CoreCompileInputs.cache
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.dll
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\refint\HigherOrderFunctionExample-FP.dll
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.pdb
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\HigherOrderFunctionExample-FP.genruntimeconfig.cache
+E:\]\CompleteReferenceCSharpPractices\Topics\Functional Programming\HigherOrderFunctionExample-FP\HigherOrderFunctionExample-FP\obj\Debug\net7.0\ref\HigherOrderFunctionExample-FP.dll
