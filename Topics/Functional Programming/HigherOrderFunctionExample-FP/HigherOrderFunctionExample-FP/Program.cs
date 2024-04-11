@@ -5,6 +5,11 @@
         static void Main(string[] args)
         {
             //orders type 
+            string pewpew = "pewpew.com/haha";
+            foreach(var (value,index) in pewpew.Select((value,index)=>(value,index)))
+            {
+
+            }
             Console.WriteLine(GetOrderDiscount(new Order { Name="Tomato1",Price=15000}, GetRules()));
         }
         public static double GetOrderDiscount(Order order, List<(Func<Order, bool> ProductsRules, Func<Order, double> GetDiscount)> Rules)

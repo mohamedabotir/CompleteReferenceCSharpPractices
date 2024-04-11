@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\mabotir\\.nuget\\packages\\": {}
@@ -13,27 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\Functional Composition.csproj",
-      "projectName": "Functional Composition",
-      "projectPath": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\Functional Composition.csproj",
+      "projectUniqueName": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\NewTaskFeature.csproj",
+      "projectName": "NewTaskFeature",
+      "projectPath": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\NewTaskFeature.csproj",
       "packagesPath": "C:\\Users\\mabotir\\.nuget\\packages\\",
-      "outputPath": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\obj\\",
+      "outputPath": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mabotir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\192.168.15.12\\MedicaPlus\\MedicaNugets": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -44,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

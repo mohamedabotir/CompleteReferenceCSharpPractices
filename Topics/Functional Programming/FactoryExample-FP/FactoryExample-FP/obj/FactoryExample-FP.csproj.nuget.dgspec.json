@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\Functional Composition.csproj": {}
+    "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\FactoryExample-FP\\FactoryExample-FP\\FactoryExample-FP.csproj": {}
   },
   "projects": {
-    "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\Functional Composition.csproj": {
+    "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\FactoryExample-FP\\FactoryExample-FP\\FactoryExample-FP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\Functional Composition.csproj",
-        "projectName": "Functional Composition",
-        "projectPath": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\Functional Composition.csproj",
+        "projectUniqueName": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\FactoryExample-FP\\FactoryExample-FP\\FactoryExample-FP.csproj",
+        "projectName": "FactoryExample-FP",
+        "projectPath": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\FactoryExample-FP\\FactoryExample-FP\\FactoryExample-FP.csproj",
         "packagesPath": "C:\\Users\\mabotir\\.nuget\\packages\\",
-        "outputPath": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\Functional Composition\\obj\\",
+        "outputPath": "E:\\]\\CompleteReferenceCSharpPractices\\Topics\\Functional Programming\\FactoryExample-FP\\FactoryExample-FP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mabotir\\AppData\\Roaming\\NuGet\\NuGet.Config",

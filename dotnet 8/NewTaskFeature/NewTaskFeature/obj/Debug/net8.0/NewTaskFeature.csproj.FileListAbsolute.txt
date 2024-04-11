@@ -1,0 +1,15 @@
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\bin\Debug\net8.0\NewTaskFeature.exe
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\bin\Debug\net8.0\NewTaskFeature.deps.json
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\bin\Debug\net8.0\NewTaskFeature.runtimeconfig.json
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\bin\Debug\net8.0\NewTaskFeature.dll
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\bin\Debug\net8.0\NewTaskFeature.pdb
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.AssemblyInfoInputs.cache
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.AssemblyInfo.cs
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.csproj.CoreCompileInputs.cache
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.sourcelink.json
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.dll
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\refint\NewTaskFeature.dll
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.pdb
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\NewTaskFeature.genruntimeconfig.cache
+D:\backup\]\CompleteReferenceCSharpPractices\dotnet 8\NewTaskFeature\NewTaskFeature\obj\Debug\net8.0\ref\NewTaskFeature.dll
