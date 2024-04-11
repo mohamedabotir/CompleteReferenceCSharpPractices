@@ -1,0 +1,17 @@
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\bin\Debug\net7.0\Consumer2.exe
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\bin\Debug\net7.0\Consumer2.deps.json
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\bin\Debug\net7.0\Consumer2.runtimeconfig.json
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\bin\Debug\net7.0\Consumer2.dll
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\bin\Debug\net7.0\Consumer2.pdb
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.csproj.AssemblyReference.cache
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.AssemblyInfoInputs.cache
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.AssemblyInfo.cs
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.csproj.CoreCompileInputs.cache
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.csproj.CopyComplete
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.dll
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\refint\Consumer2.dll
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.pdb
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\Consumer2.genruntimeconfig.cache
+E:\Projects\opensource\writes\SimulateRabbitMQ\Consumer2\obj\Debug\net7.0\ref\Consumer2.dll
