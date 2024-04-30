@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0B38CA7-F4A0-4430-BA5C-70C50FE26963}|NewTaskFeature\\NewTaskFeature.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\newtaskfeature\\newtaskfeature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0B38CA7-F4A0-4430-BA5C-70C50FE26963}|NewTaskFeature\\NewTaskFeature.csproj|solutionrelative:newtaskfeature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\obj\\Debug\\net8.0\\NewTaskFeature.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewTaskFeature\\obj\\Debug\\net8.0\\NewTaskFeature.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,22 +76,9 @@
               "RelativeDocumentMoniker": "NewTaskFeature\\Program.cs",
               "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\Program.cs",
               "RelativeToolTip": "NewTaskFeature\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T17:55:42.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewTaskFeature.GlobalUsings.g.cs",
-              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\obj\\Debug\\net8.0\\NewTaskFeature.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "NewTaskFeature\\obj\\Debug\\net8.0\\NewTaskFeature.GlobalUsings.g.cs",
-              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\NewTaskFeature\\NewTaskFeature\\obj\\Debug\\net8.0\\NewTaskFeature.GlobalUsings.g.cs",
-              "RelativeToolTip": "NewTaskFeature\\obj\\Debug\\net8.0\\NewTaskFeature.GlobalUsings.g.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:56:31.14Z",
               "EditorCaption": ""
             }
           ]
