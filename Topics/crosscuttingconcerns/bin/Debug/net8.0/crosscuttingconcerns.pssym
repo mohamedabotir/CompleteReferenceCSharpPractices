@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="9" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="2024.1.5.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[crosscuttingconcerns]LoggingAspect.LoggingAspect" Id="3f2d1a8700008005">
+      <Target />
+    </Instance>
+  </Class>
+  <Class Class="#2">
+    <Instance Declaration="#3=T:[crosscuttingconcerns]LoggingUsage" Id="3f2d1a8700008006">
+      <Target Target="#4=M:[crosscuttingconcerns]LoggingUsage::Print()" LinesAvoided="2">
+        <JoinPoint Description="#5=Wrapped by advice(s) OnException" Ordinal="0" />
+      </Target>
+      <Target Target="#6=M:[crosscuttingconcerns]LoggingUsage::#ctor()" LinesAvoided="2">
+        <JoinPoint Description="#5" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#7=M:[crosscuttingconcerns]LoggingAspect.LoggingAspect::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8=2" Description="#9=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>

@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PostSharp/2024.1.5": {
+        "type": "package",
+        "dependencies": {
+          "PostSharp.Redist": "2024.1.5"
+        },
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/PostSharp.props": {},
+          "build/PostSharp.targets": {}
+        }
+      },
+      "PostSharp.Redist/2024.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/PostSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/PostSharp.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostSharp/2024.1.5": {
+      "sha512": "I0xVdLrLlyXX1IoxMAT7kUg8ve3Qb7Psu9nF4kAHAyZ0+ciDSiAr4cWJaa20H+6ETDSYS9AXHokhgFEMjXR/Vg==",
+      "type": "package",
+      "path": "postsharp/2024.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "THIRD-PARTY-NOTICES.html",
+        "build/PostSharp-Tools.7z",
+        "build/PostSharp.BeforeTargetFrameworkInference.targets",
+        "build/PostSharp.Version.properties",
+        "build/PostSharp.properties",
+        "build/PostSharp.props",
+        "build/PostSharp.targets",
+        "build/PostSharp.tasks",
+        "build/_common/unzipper/net472/Microsoft.Bcl.AsyncInterfaces.dll",
+        "build/_common/unzipper/net472/SharpCompress.dll",
+        "build/_common/unzipper/net472/System.Buffers.dll",
+        "build/_common/unzipper/net472/System.Memory.dll",
+        "build/_common/unzipper/net472/System.Numerics.Vectors.dll",
+        "build/_common/unzipper/net472/System.Runtime.CompilerServices.Unsafe.dll",
+        "build/_common/unzipper/net472/System.Text.Encoding.CodePages.dll",
+        "build/_common/unzipper/net472/System.Threading.Tasks.Extensions.dll",
+        "build/_common/unzipper/net472/ZstdSharp.dll",
+        "build/_common/unzipper/net472/unzipper.exe",
+        "build/_common/unzipper/net472/unzipper.exe.config",
+        "build/_common/unzipper/net472/unzipper.pdb",
+        "build/_common/unzipper/net6.0/SharpCompress.dll",
+        "build/_common/unzipper/net6.0/System.Text.Encoding.CodePages.dll",
+        "build/_common/unzipper/net6.0/ZstdSharp.dll",
+        "build/_common/unzipper/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll",
+        "build/_common/unzipper/net6.0/unzipper.deps.json",
+        "build/_common/unzipper/net6.0/unzipper.dll",
+        "build/_common/unzipper/net6.0/unzipper.exe",
+        "build/_common/unzipper/net6.0/unzipper.pdb",
+        "build/_common/unzipper/net6.0/unzipper.runtimeconfig.json",
+        "build/net472/PostSharp.MSBuild.v2024.1.5.Release.dll",
+        "build/net472/PostSharp.MSBuild.v2024.1.5.Release.pdb",
+        "build/net6.0/PostSharp.MSBuild.v2024.1.5.Release.dll",
+        "build/net6.0/PostSharp.MSBuild.v2024.1.5.Release.pdb",
+        "icon.png",
+        "lib/net35-client/_._",
+        "lib/netstandard1.0/_._",
+        "postsharp.2024.1.5.nupkg.sha512",
+        "postsharp.nuspec"
+      ]
+    },
+    "PostSharp.Redist/2024.1.5": {
+      "sha512": "kBMmqFJpZn0ybNE/gaziWWFhlrBLOBPUR4gZndy/XXuaaOP0pq25S9Q/ikBn7K+e4oXTenBvbTLWdwqXXmO8Sg==",
+      "type": "package",
+      "path": "postsharp.redist/2024.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "icon.png",
+        "lib/net35-client/PostSharp.dll",
+        "lib/net35-client/PostSharp.xml",
+        "lib/net45/PostSharp.dll",
+        "lib/net45/PostSharp.xml",
+        "lib/net5.0/PostSharp.dll",
+        "lib/net5.0/PostSharp.xml",
+        "lib/net6.0/PostSharp.dll",
+        "lib/net6.0/PostSharp.xml",
+        "lib/net7.0/PostSharp.dll",
+        "lib/net7.0/PostSharp.xml",
+        "lib/net8.0/PostSharp.dll",
+        "lib/net8.0/PostSharp.xml",
+        "lib/netstandard1.3/PostSharp.dll",
+        "lib/netstandard1.3/PostSharp.xml",
+        "lib/netstandard2.0/PostSharp.dll",
+        "lib/netstandard2.0/PostSharp.xml",
+        "postsharp.redist.2024.1.5.nupkg.sha512",
+        "postsharp.redist.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PostSharp >= 2024.1.5"
+    ]
+  },
+  "packageFolders": {
+    "/home/threading/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/threading/projects/CompleteReferenceCSharpPractices/Topics/crosscuttingconcerns/crosscuttingconcerns.csproj",
+      "projectName": "crosscuttingconcerns",
+      "projectPath": "/home/threading/projects/CompleteReferenceCSharpPractices/Topics/crosscuttingconcerns/crosscuttingconcerns.csproj",
+      "packagesPath": "/home/threading/.nuget/packages/",
+      "outputPath": "/home/threading/projects/CompleteReferenceCSharpPractices/Topics/crosscuttingconcerns/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/threading/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "PostSharp": {
+            "target": "Package",
+            "version": "[2024.1.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

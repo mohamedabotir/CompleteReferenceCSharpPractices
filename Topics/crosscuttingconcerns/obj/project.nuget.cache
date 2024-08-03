@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCNWoci1587oHNIW/xjQZN94Gk/vKbvgDcOobt/yn+2k7ffEnmgjnkh8yBtQNAy5Pjyo05KwnUMncYt6TliHSw==",
+  "success": true,
+  "projectFilePath": "/home/threading/projects/CompleteReferenceCSharpPractices/Topics/crosscuttingconcerns/crosscuttingconcerns.csproj",
+  "expectedPackageFiles": [
+    "/home/threading/.nuget/packages/postsharp/2024.1.5/postsharp.2024.1.5.nupkg.sha512",
+    "/home/threading/.nuget/packages/postsharp.redist/2024.1.5/postsharp.redist.2024.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

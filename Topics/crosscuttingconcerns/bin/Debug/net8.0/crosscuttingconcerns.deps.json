@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "crosscuttingconcerns/1.0.0": {
+        "dependencies": {
+          "PostSharp": "2024.1.5"
+        },
+        "runtime": {
+          "crosscuttingconcerns.dll": {}
+        }
+      },
+      "PostSharp/2024.1.5": {
+        "dependencies": {
+          "PostSharp.Redist": "2024.1.5"
+        }
+      },
+      "PostSharp.Redist/2024.1.5": {
+        "runtime": {
+          "lib/net8.0/PostSharp.dll": {
+            "assemblyVersion": "2024.1.5.0",
+            "fileVersion": "2024.1.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "crosscuttingconcerns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostSharp/2024.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I0xVdLrLlyXX1IoxMAT7kUg8ve3Qb7Psu9nF4kAHAyZ0+ciDSiAr4cWJaa20H+6ETDSYS9AXHokhgFEMjXR/Vg==",
+      "path": "postsharp/2024.1.5",
+      "hashPath": "postsharp.2024.1.5.nupkg.sha512"
+    },
+    "PostSharp.Redist/2024.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kBMmqFJpZn0ybNE/gaziWWFhlrBLOBPUR4gZndy/XXuaaOP0pq25S9Q/ikBn7K+e4oXTenBvbTLWdwqXXmO8Sg==",
+      "path": "postsharp.redist/2024.1.5",
+      "hashPath": "postsharp.redist.2024.1.5.nupkg.sha512"
+    }
+  }
+}
