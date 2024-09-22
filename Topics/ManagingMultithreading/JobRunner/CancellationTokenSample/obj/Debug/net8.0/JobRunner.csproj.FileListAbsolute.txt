@@ -1,0 +1,14 @@
+/home/threading/RiderProjects/JobRunner/JobRunner/bin/Debug/net8.0/JobRunner
+/home/threading/RiderProjects/JobRunner/JobRunner/bin/Debug/net8.0/JobRunner.deps.json
+/home/threading/RiderProjects/JobRunner/JobRunner/bin/Debug/net8.0/JobRunner.runtimeconfig.json
+/home/threading/RiderProjects/JobRunner/JobRunner/bin/Debug/net8.0/JobRunner.dll
+/home/threading/RiderProjects/JobRunner/JobRunner/bin/Debug/net8.0/JobRunner.pdb
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.GeneratedMSBuildEditorConfig.editorconfig
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.AssemblyInfoInputs.cache
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.AssemblyInfo.cs
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.csproj.CoreCompileInputs.cache
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.dll
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/refint/JobRunner.dll
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.pdb
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/JobRunner.genruntimeconfig.cache
+/home/threading/RiderProjects/JobRunner/JobRunner/obj/Debug/net8.0/ref/JobRunner.dll
