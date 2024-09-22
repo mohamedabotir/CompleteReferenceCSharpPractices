@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "drzRN4vGsSE=",
+  "dgSpecHash": "G66l8zZvFnE=",
   "success": true,
-  "projectFilePath": "/home/threading/RiderProjects/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj",
+  "projectFilePath": "/home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

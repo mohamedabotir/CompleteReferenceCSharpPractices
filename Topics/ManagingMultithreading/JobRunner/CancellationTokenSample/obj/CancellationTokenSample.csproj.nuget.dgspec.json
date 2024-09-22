@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/threading/RiderProjects/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj": {}
+    "/home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj": {}
   },
   "projects": {
-    "/home/threading/RiderProjects/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj": {
+    "/home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/threading/RiderProjects/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj",
+        "projectUniqueName": "/home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj",
         "projectName": "CancellationTokenSample",
-        "projectPath": "/home/threading/RiderProjects/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj",
+        "projectPath": "/home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/CancellationTokenSample.csproj",
         "packagesPath": "/home/threading/.nuget/packages/",
-        "outputPath": "/home/threading/RiderProjects/JobRunner/CancellationTokenSample/obj/",
+        "outputPath": "/home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/threading/.nuget/NuGet/NuGet.Config"

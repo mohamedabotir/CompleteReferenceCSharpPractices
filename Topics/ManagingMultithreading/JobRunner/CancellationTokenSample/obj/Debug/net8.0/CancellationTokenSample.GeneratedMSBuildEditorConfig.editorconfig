@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CancellationTokenSample
-build_property.ProjectDir = /home/threading/RiderProjects/JobRunner/CancellationTokenSample/
+build_property.ProjectDir = /home/threading/RiderProjects/CompleteReferenceCSharpPractices/Topics/ManagingMultithreading/JobRunner/CancellationTokenSample/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
