@@ -14,6 +14,7 @@ public class JoinSync
             thread2=new Thread(DoSomething2);
             thread2.Start();
             thread2.Join();
+            Console.WriteLine("Tasks Async Completed");
 
     }
     void DoSomething1()
@@ -22,7 +23,8 @@ public class JoinSync
         {
             value -= i;
             Console.WriteLine("Subtract:{0} with {1}, ThreadId:{2}", value,i,Thread.CurrentThread.ManagedThreadId);
-            Task.Delay(1000);
+            Thread.Sleep(1000);
+            Console.WriteLine("ThreadId{0}", Thread.CurrentThread.ManagedThreadId);
         }
 
     }

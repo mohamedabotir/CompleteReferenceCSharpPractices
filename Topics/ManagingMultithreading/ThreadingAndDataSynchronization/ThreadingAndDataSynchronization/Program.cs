@@ -17,3 +17,36 @@ new JoinSync(); // join thread to main to acheive execution sync
   the main different is Task.Run always run task as DenychildAttach
  * 
  */
+ Parallel.For(0,500, e =>
+ {
+  Console.WriteLine("Value :{0} Parallel Thread :{1}",e,Thread.CurrentThread.ManagedThreadId);
+  Thread.Sleep(1000);
+ });
+ 
+ Console.WriteLine("Main Thread Finished:{0}",Thread.CurrentThread.ManagedThreadId);
+ 
+ // delay make thread busy for idle status , but sleep is free thread temporary to be reuse , after period finished will continue executing again 
+ 
+ /*
+  *Multithreading
+  Time ───────────────────────────►
+    
+    Thread 1: |----Task A---->|--Task B-->|---Task A (continue)---|
+                 ↑                   ↑
+                 |                   |
+    Thread 2:    |  |----Task C---->|-------Task D-------|
+                         ↑
+                         |
+    Thread 3:       |----Task E---->|-----Task F-----|
+    
+  *Parallel
+    Core 1: |----Task1 (Subtask A)----|
+    Core 2: |----Task1 (Subtask B)----|
+    Core 3: |----Task2 (Subtask A)----|
+    Core 4: |----Task2 (Subtask B)----|
+    
+  *Asynchronous
+  Time:   |----Task1 (Waiting)----|----Task1 (Complete)----|
+    |----Task2----|                       |----Task3----|
+
+  */
